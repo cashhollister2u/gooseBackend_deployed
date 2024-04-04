@@ -1,0 +1,27 @@
+asgiref==3.7.2
+Django==5.0
+django-jazzmin==2.6.0
+djangorestframework==3.14.0
+djangorestframework-simplejwt==5.3.1
+import-export==0.3.1
+Pillow==10.1.0
+PyJWT==2.8.0
+pytz==2023.3.post1
+sqlparse==0.4.4
+tzdata==2023.3
+django-crispy-forms
+django-import-export
+django-mathfilters
+django-taggit
+django-ckeditor
+django-ckeditor-5
+
+# Additional Django utilities
+django-cors-headers
+channels
+daphne
+gunicorn
+psycopg2
+
+#db url
+dj-database-url

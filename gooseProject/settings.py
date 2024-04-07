@@ -24,14 +24,14 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/5.0/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = '&sy45v5acc!lgrbep*c_(31lp6*b+d(6#9-7kd_cw@w8fr(#eg'
+SECRET_KEY = ''
 
-JWT_SECRET_KEY = 'f+d+tlt6l6-kato@tm#d*8ujpvzg@c68r=3pm5@+)-nfrs(1k!'
+JWT_SECRET_KEY = ''
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = 'True'
 
-ALLOWED_HOSTS = ['159.65.168.234', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['159.65.168.234', 'localhost', '127.0.0.1', 'gooseadmin.com', 'www.gooseadmin.com]
 
 
 #DATA_UPLOAD_MAX_MEMORY_SIZE = 20971520

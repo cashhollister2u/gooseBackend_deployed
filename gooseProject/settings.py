@@ -31,7 +31,7 @@ JWT_SECRET_KEY = ''
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = 'True'
 
-ALLOWED_HOSTS = ['159.65.168.234', 'localhost', '127.0.0.1', 'gooseadmin.com', 'www.gooseadmin.com]
+ALLOWED_HOSTS = ['159.65.168.234', 'localhost', '127.0.0.1', 'gooseadmin.com', 'www.gooseadmin.com']
 
 
 #DATA_UPLOAD_MAX_MEMORY_SIZE = 20971520
